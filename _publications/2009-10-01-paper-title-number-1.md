@@ -1,7 +1,7 @@
 ---
 title: "A default Bayesian multiple comparison of two binomial proportions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/acceptedpapers/index.php
 excerpt: ' '
 date: 2022-05-12
 venue: 'Statistics and Its Interface'
