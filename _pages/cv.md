@@ -18,24 +18,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Lecturer at Department of Mathematical Sciences, University of Cincinnati – Cincinnati, OH, USA (Winter Quarter, 2012)
+* Teaching Assistant at Department of Business Analytics, University of Cincinnati – Cincinnati, OH, USA (2015)
+* Teaching Assistant at Department of Mathematical Sciences, University of Cincinnati – Cincinnati, USA (Aug., 2016-Aug., 2017)
+* Internship at Cincinnati Children’s Hospital, Division of Biostatistics and Epidemiology, Cincinnati, USA (Aug., 2017- Sep., 2018)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
-* Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  
 
 Publications
 ======
