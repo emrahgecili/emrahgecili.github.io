@@ -47,6 +47,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Memberships
 ======
-* Currently signed in to 43 different slack teams
+* Member, American Mathematical Society (2012-2018)
+* University of Cincinnati Chapter Officer, American Statistical Association (2013-2014)
+* Member, American Statistical Association (2013- )
+* Member, International Society of Bayesian Analysis (2017- )
+
