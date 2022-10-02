@@ -1,1 +1,1 @@
-A Github Pages template 
+Github Pages template 
