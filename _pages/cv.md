@@ -60,10 +60,10 @@ Select Additional Training
 ======
 * Multi-omics Modelling of Biochemical Pathways (July 12-16, 2021), The Environmental Molecular Sciences Laboratory (EMSL) Summer School 2021 (Online)
 (One of the 25 awarded attendants)
-* Big Data, Data Science and Deep Learning for Statistician (March 2019), ENAR 2019 Spring Meetings, Philadelphia, PA, USA
-* Gene Expression Profiling (July 8-10, 2015), 20th Summer Institute in statistical Genetics, University of Washington, Seattle, WA, USA
-* QTL Mapping (July 15-17, 2015), 20th Summer Institute in statistical Genetics, University of Washington, Seattle, WA, USA
-* Bayesian Statistics for Genetics (July 22-24, 2015), 20th Summer Institute in statistical Genetics, University of Washington, Seattle, WA, USA
+* Big Data, Data Science and Deep Learning for Statistician (March 2019), ENAR 2019 Spring Meetings, Philadelphia, PA
+* Gene Expression Profiling (July 8-10, 2015), 20th Summer Institute in statistical Genetics, University of Washington, Seattle, WA
+* QTL Mapping (July 15-17, 2015), 20th Summer Institute in statistical Genetics, University of Washington, Seattle, WA
+* Bayesian Statistics for Genetics (July 22-24, 2015), 20th Summer Institute in statistical Genetics, University of Washington, Seattle, WA
 
 Manuscript Reviews
 ======
