@@ -47,12 +47,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Professional Memberships
+Research Interests
 ======
-* Member, American Mathematical Society (2012-2018)
-* University of Cincinnati Chapter Officer, American Statistical Association (2013-2014)
-* Member, American Statistical Association (2013- )
-* Member, International Society of Bayesian Analysis (2017- )
+* Bayesian penalized regression models for biomarker selection in omics
+* Development and validation of biostatistical models incorporating biomarker data aimed at outcomes prediction
+* Proteomic Data Analysis
+* Statistical modelling for longitudinal lung function data for cystic fibrosis (CF), bronchiolitis obliterans syndrome (BOS), and lymphangioleiomyomatosis (LAM) lung diseases
+* Bayesian Multiplicity Adjustment to the Multiple Testing Problem
+* Bayesian Multiple Testing for Discrete and Dependent Data
+* QTL mapping and Gene expression analysis
 
 Manuscript Reviews
 ======
@@ -66,4 +69,11 @@ Editorial Service: Role / Journal
 ======
 *	Academic Editor, PLOS One	(2022-)
 *	Deputy Statistics Editor, Thorax (2022-)
+
+Professional Memberships
+======
+* Member, American Mathematical Society (2012-2018)
+* University of Cincinnati Chapter Officer, American Statistical Association (2013-2014)
+* Member, American Statistical Association (2013- )
+* Member, International Society of Bayesian Analysis (2017- )
 
