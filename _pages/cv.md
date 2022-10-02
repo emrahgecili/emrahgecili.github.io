@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, Cukurova University, 2008, Turkey
+* B.S. in Mathematics, Cukurova University, 2008, Turkey
+* M.S. in Statistics, University of Cincinnati, 2012
+* Ph.D in Statistics, University of Cincinnati, 2018
 
 Work experience
 ======
