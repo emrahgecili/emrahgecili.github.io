@@ -23,12 +23,11 @@ Work experience
 * Teaching Assistant at Department of Mathematical Sciences, University of Cincinnati – Cincinnati, USA (Aug., 2016-Aug., 2017)
 * Internship at Cincinnati Children’s Hospital, Division of Biostatistics and Epidemiology, Cincinnati, USA (Aug., 2017- Sep., 2018)
 
-Skills
+Technical Skills
 ======
-* Skill 1
-  * Sub-skill 2.1
-  
+SAS (Fluent); R (Fluent); MATLAB (Fluent); MaxQuant (Fluent); JMP (Fluent); MINITAB (Good); EXCEL (Fluent); SPSS (Fluent); Win Bugs (Good); Maple (Fluent); SQL (Good).
 
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
