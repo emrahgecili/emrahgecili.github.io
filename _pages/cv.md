@@ -54,3 +54,16 @@ Professional Memberships
 * Member, American Statistical Association (2013- )
 * Member, International Society of Bayesian Analysis (2017- )
 
+Manuscript Reviews
+======
+*	PLOS One (1/year as reviewer) (2020-)
+*	Statistics and Its Interface (1/year as reviewer) (2020-)
+*	Germs (1/year as reviewer)  (2021-)
+*	Frontiers (1/year as reviewer)  (2022-)
+*	Thorax (15/ year as statistical editor) (2022-)
+
+Editorial Service: Role / Journal
+======
+*	Academic Editor, PLOS One	(2022-)
+*	Deputy Statistics Editor, Thorax (2022-)
+
