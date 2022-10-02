@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Immune biogeography of nontuberculous mycobacteria (NTM) infected airways in people with cystic fibrosis"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+permalink: https://doi.org/10.1172/jci.insight.157865.
+excerpt: ' '
+date: 2022-05-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: '2.	Hayes D, Shukla R, Cheng Y, Gecili E, Merling M, Szczesniak RD, Ziady A, Woods J, Hall-Stoodley L, Liyanage N, Robinson R. (2022). &quot;Immune biogeography of nontuberculous mycobacteria (NTM) infected airways in people with cystic fibrosis.&quot; <i>Journal of Clinical Investigation Insight 1</i>..'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: 2.	Hayes D, Shukla R, Cheng Y, Gecili E, Merling M, Szczesniak RD, Ziady A, Woods J, Hall-Stoodley L, Liyanage N, Robinson R. (2022). Immune biogeography of nontuberculous mycobacteria (NTM) infected airways in people with cystic fibrosis. Journal of Clinical Investigation Insight. 2022 May. https://doi.org/10.1172/jci.insight.157865..
