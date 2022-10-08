@@ -1,1 +1,1 @@
-Github Pages template 
+Github Page emrahgecili.github.io
