@@ -71,7 +71,7 @@ Manuscript Reviews
 *	Statistics and Its Interface (1/year as reviewer) (2020-)
 *	Germs (1/year as reviewer)  (2021-)
 *	Frontiers (1/year as reviewer)  (2022-)
-*	Thorax (15/ year as statistical editor) (2022-)
+*	Thorax (18/ year as statistical editor) (2022-)
 
 Editorial Service: Role / Journal
 ======
