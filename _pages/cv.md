@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Cukurova University, 2008
-* B.S. in Mathematics, Cukurova University, 2008
-* M.S. in Statistics, University of Cincinnati, 2012
-* Ph.D in Statistics, University of Cincinnati, 2018
+* B.S. in Statistics, Cukurova University
+* B.S. in Mathematics, Cukurova University
+* M.S. in Statistics, University of Cincinnati
+* Ph.D in Statistics, University of Cincinnati
 
 Work experience
 ======
